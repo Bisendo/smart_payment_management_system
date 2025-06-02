@@ -329,7 +329,7 @@ const SmartSchoolPaymentSystem = () => {
             className="md:hidden mt-4 space-y-2"
           >
             <a href="#features" className="block px-3 py-2 rounded-md text-gray-300 hover:text-white hover:bg-gray-800">Features</a>
-            <a href="#pricing" className="block px-3 py-2 rounded-md text-gray-300 hover:text-white hover:bg-gray-800">Pricing</a>
+            <a href="/login" className="block px-3 py-2 rounded-md text-gray-300 hover:text-white hover:bg-gray-800">Login</a>
             <a href="#testimonials" className="block px-3 py-2 rounded-md text-gray-300 hover:text-white hover:bg-gray-800">Testimonials</a>
             <a href="#contact" className="block px-3 py-2 rounded-md text-gray-300 hover:text-white hover:bg-gray-800">Contact</a>
             <a href="#demo" className="block px-3 py-2 rounded-md text-white bg-indigo-600 hover:bg-indigo-700">Demo</a>
